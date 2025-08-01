@@ -207,15 +207,3 @@ For security concerns, please review our [Security Policy](SECURITY.md).
 ---
 
 Built with ❤️ using Next.js, Redux Toolkit, TypeScript, and Tailwind CSS
-
-<div align="center">
-  <a href="https://github.com/yourusername/todo-list-app/stargazers">
-    <img src="https://img.shields.io/github/stars/yourusername/todo-list-app?style=social" alt="GitHub stars">
-  </a>
-  <a href="https://github.com/yourusername/todo-list-app/network/members">
-    <img src="https://img.shields.io/github/forks/yourusername/todo-list-app?style=social" alt="GitHub forks">
-  </a>
-  <a href="https://github.com/yourusername/todo-list-app/issues">
-    <img src="https://img.shields.io/github/issues/yourusername/todo-list-app" alt="GitHub issues">
-  </a>
-</div>
