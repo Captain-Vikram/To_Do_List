@@ -8,11 +8,9 @@
 
 A modern, responsive Todo List application built with Next.js, Redux Toolkit, TypeScript, and Tailwind CSS.
 
-![Todo List App Screenshot](https://via.placeholder.com/800x400/1f2937/ffffff?text=Todo+List+App+Demo)
-
 ## 🌟 Live Demo
 
-🔗 **[View Live Demo](https://your-todo-app.vercel.app)** *(Replace with your actual deployment URL)*
+🔗 **[View Live Demo]([https://your-todo-app.vercel.app](https://to-do-list-murex-nu-85.vercel.app/))** *(Replace with your actual deployment URL)*
 
 ## 🚀 Features
 
