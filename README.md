@@ -10,7 +10,7 @@ A modern, responsive Todo List application built with Next.js, Redux Toolkit, Ty
 
 ## 🌟 Live Demo
 
-🔗 **[View Live Demo]([https://your-todo-app.vercel.app](https://to-do-list-murex-nu-85.vercel.app/))** *(Replace with your actual deployment URL)*
+🔗 **[View Live Demo]([https://your-todo-app.vercel.app](https://to-do-list-murex-nu-85.vercel.app/))**
 
 ## 🚀 Features
 
